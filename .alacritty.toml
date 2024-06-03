@@ -1,0 +1,18 @@
+
+import = [ "~/.config/alacritty/themes/catpuccin-mocha.toml" ]
+
+[window]
+dynamic_title = true
+opacity = 1.0
+
+[shell]
+program = "/bin/zsh"
+
+[font]
+size = 8
+
+[colors]
+transparent_background_colors = true
+
+[cursor]
+thickness = 0.15
