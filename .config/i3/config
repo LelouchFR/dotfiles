@@ -1,6 +1,6 @@
 font pango:monospace 8
 
-exec --no-startup-id feh --bg-fill ~/Images/wallpaper.png
+exec --no-startup-id feh --bg-fill ~/wallpaper/wallpaper.png
 
 exec --no-startup-id dex --autostart --environment i3
 
