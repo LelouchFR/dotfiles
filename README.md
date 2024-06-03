@@ -5,11 +5,11 @@ Hello and welcome to my dotfiles, hope you're going to find all the things you n
 <details>
     <summary><h2>Preview</h2></summary>
     <figure>
-        <img src=".github/preview/screenshot1.png" width="250px"/>
+        <img src=".github/preview/screenshot1.png" width="450px"/><br />
         <figcaption>commands: <a href="https://github.com/dylanaraps/neofetch">neofetch</a>, <a href="https://htop.dev/">htop</a>, <a href="https://github.com/xorg62/tty-clock">tty-clock</a>, <a href="https://github.com/pipeseroni/pipes.sh">pipes.sh</a></figcaption>
-        <img src=".github/preview/screenshot2.png" width="250px"/>
+        <img src=".github/preview/screenshot2.png" width="450px"/><br />
         <figcaption>commands: <a href="https://github.com/kraanzu/smassh">smassh</a>, <a href="https://archlinux.org/packages/extra/x86_64/firefox/">firefox</a></figcaption>
-        <img src=".github/preview/screenshot3.png" width="250px"/>
+        <img src=".github/preview/screenshot3.png" width="450px"/><br />
         <figcaption>polybar + wallpaper</figcaption>
     </figure>
 </details>
