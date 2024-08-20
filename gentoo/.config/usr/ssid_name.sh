@@ -1,0 +1,1 @@
+usr/ssid_name.sh

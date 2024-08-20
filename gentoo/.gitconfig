@@ -1,0 +1,9 @@
+[user]
+	email = baptistezahnow@gmail.com
+	name = LelouchFR
+[core]
+	autocrlf = false
+[init]
+	defaultBranch = main
+[pager]
+	branch = false
